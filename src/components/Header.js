@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <div className="App">
           <span onClick={()=>window.scroll(0,0)} className='header'>
-               🎬 Movies World new🎥🎬
+               🎬 Movies World🎥🎬
                </span>
         </div>
       );
